@@ -1,4 +1,5 @@
 # EVOLVE
+
 EVOLVE is an innovative initiative
 transforming emotional well-being through personalized
 podcasting or moodcasting. At its core, EVOLVE introduces
@@ -10,8 +11,9 @@ second podcasts or moodcasts. Users can choose between
 public and private accounts, emphasizing personalization and
 emotional wellness. Through interactions with Mello, users
 express emotions, allowing the chatbot to curate content
-resonating with their current state. By integrating sentiment
-analysis, text generation, and text-to-speech models, Mello
+resonating with their current state. 
+
+By integrating sentiment analysis, text generation, and text-to-speech models, Mello
 evolves alongside users, offering empathetic support and
 recommendations. Public sharing fosters collaboration and
 growth, promoting empathy and a supportive environment.
